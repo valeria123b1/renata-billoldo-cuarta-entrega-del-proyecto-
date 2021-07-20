@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Castoro:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Castoro:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Castoro:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Castoro:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Castoro:ital@1&display=swap");
+/* line 2, ../../Desktop/desafio clase 11/scss/estilos.scss */
+body {
+  font-family: 'Bebas Neue', cursive;
+  font-family: 'Castoro', serif;
+  background-color: #d0a088;
+}
+
+/* line 7, ../../Desktop/desafio clase 11/scss/estilos.scss */
+.site__header--bg-black {
+  background-color: #976948;
+}
+
+/* line 10, ../../Desktop/desafio clase 11/scss/estilos.scss */
+#site__Banner {
+  background-image: url("../imagenes_utilizadas/banner.jpg");
+  background-size: cover;
+  background-position: 50%;
+  min-height: 400px;
+  height: 50vh;
+  position: relative;
+  opacity: .5;
+}
+
+/* line 19, ../../Desktop/desafio clase 11/scss/estilos.scss */
+#site__Banner h3 {
+  font-size: 3rem;
+  line-height: 1.25em;
+}
+
+@media (min-width: 576px) {
+  /* line 26, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  body {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Castoro', serif;
+    background-color: #d0a088;
+  }
+  /* line 31, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  .site__header--bg-black {
+    background-color: #976948;
+  }
+  /* line 34, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  #site__Banner {
+    background-image: url("../imagenes_utilizadas/banner.jpg");
+    background-size: cover;
+    background-position: 50%;
+    min-height: 400px;
+    height: 50vh;
+    position: relative;
+    opacity: .5;
+  }
+  /* line 43, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  #site__Banner h3 {
+    font-size: 3rem;
+    line-height: 1.25em;
+  }
+}
+
+@media (min-width: 768px) {
+  /* line 52, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  body {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Castoro', serif;
+    background-color: #d0a088;
+  }
+  /* line 57, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  .site__header--bg-black {
+    background-color: #976948;
+  }
+  /* line 60, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  #site__Banner {
+    background-image: url("../imagenes_utilizadas/banner.jpg");
+    background-size: cover;
+    background-position: 50%;
+    min-height: 400px;
+    height: 50vh;
+    position: relative;
+    opacity: .5;
+  }
+  /* line 69, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  #site__Banner h3 {
+    font-size: 3rem;
+    line-height: 1.25em;
+  }
+}
+
+@media (min-width: 992px) {
+  /* line 78, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  body {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Castoro', serif;
+    background-color: #d0a088;
+  }
+  /* line 83, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  .site__header--bg-black {
+    background-color: #976948;
+  }
+  /* line 86, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  #site__Banner {
+    background-image: url("../imagenes_utilizadas/banner.jpg");
+    background-size: cover;
+    background-position: 50%;
+    min-height: 400px;
+    height: 50vh;
+    position: relative;
+    opacity: .5;
+  }
+  /* line 95, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  #site__Banner h3 {
+    font-size: 3rem;
+    line-height: 1.25em;
+  }
+}
+
+@media (min-width: 1200px) {
+  /* line 104, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  body {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Castoro', serif;
+    background-color: #d0a088;
+  }
+  /* line 109, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  .site__header--bg-black {
+    background-color: #976948;
+  }
+  /* line 112, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  #site__Banner {
+    background-image: url("../imagenes_utilizadas/banner.jpg");
+    background-size: cover;
+    background-position: 50%;
+    min-height: 400px;
+    height: 50vh;
+    position: relative;
+    opacity: .5;
+  }
+  /* line 121, ../../Desktop/desafio clase 11/scss/estilos.scss */
+  #site__Banner h3 {
+    font-size: 3rem;
+    line-height: 1.25em;
+  }
+}
+
+/*# sourceMappingURL=estilos.css.map */
